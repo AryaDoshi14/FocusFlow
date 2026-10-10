@@ -39,7 +39,7 @@
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/Arya14-coder/FocusFlow.git
+    git clone https://github.com/AryaDoshi14/FocusFlow.git
     cd FocusFlow
     ```
 
